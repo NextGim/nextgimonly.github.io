@@ -1,0 +1,5 @@
+User-agent: Rambler Bot,BingBot,Slurp
+Crawl-delay: 1
+Host: https://nextgim.github.io/nextgimonly/
+Disallow: /icon-fonts.html
+
